@@ -2,7 +2,7 @@ package ru.netology.sqr;
 
 public class SQRService {
 
-    public int squareCounter(int lowerBound,int upperBound) {
+    public int squareCounter(int lowerBound, int upperBound) {
         int initialNumber = 10; // Начальное число
         int finiteNumber = 99; // Конечное число
         int calculate = 0;
